@@ -15,7 +15,7 @@ function App() {
     <>
       <main className="bg-white md:p-10 md:flex md:flex-col md:items-center md:justify-center">
         <div className="p-7 flex flex-col text-gray-600 gap-5 text-center tracking-wide md:w-1/3 md:items-center">
-          <h1 className="font-mainFont text-2xl mt-10 font-extralight md:mt-0">
+          <h1 className="font-mainFont text-2xl mt-10 font-extralight flex flex-col gap-2 md:mt-0">
             Reliable, efficient delivery
             <span className="font-bold"> Powered by Technology</span>
           </h1>
